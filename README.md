@@ -1,2 +1,27 @@
-# meu-novo-projeto
-Projeto simples de cadastro de produtos desenvolvido em Java puro. Permite adicionar, listar, editar e remover produtos diretamente via terminal. Criado com o objetivo de praticar os conceitos de programação orientada a objetos e estruturação de código em Java.  🔧 Tecnologias utilizadas:  Java (sem uso de banco de dados ou frameworks externos)
+# 🛒 Cadastro de Produtos
+
+Projeto simples em **Java** feito no IntelliJ IDEA.  
+Sistema básico para **adicionar, editar, listar e remover produtos**.
+
+---
+
+## 🚀 Funcionalidades
+
+- ➕ Adicionar novos produtos  
+- ✏️ Editar produtos existentes  
+- 📋 Listar todos os produtos cadastrados  
+- ❌ Remover produtos pelo ID  
+
+---
+
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+Desenvolvido no IntelliJ IDEA.
+
+---
+
+## 📦 Como usar
+
+```bash
+git clone https://github.com/matheushabeck/cadastro-produtos-java.git
